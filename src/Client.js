@@ -1,4 +1,4 @@
-const logger = require('../observability/Logger')(process.env, process.stdout);
+const logger = require('./Logger')(process.env, process.stdout);
 
 module.exports = {
   using: (request) => {
