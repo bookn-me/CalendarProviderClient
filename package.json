@@ -1,7 +1,7 @@
 {
-  "name": "calendar-provider-client",
+  "name": "great-calendar-client",
   "version": "0.0.0",
-  "main": "entry-point.js",
+  "main": "./src/Client.js",
   "scripts": {
     "test": "mocha src/**/*.js"
   },

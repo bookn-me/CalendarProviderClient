@@ -1,7 +1,7 @@
 const expect = require('chai').expect;
 const { Response } = require('node-fetch');
 
-const { Client } = require('../entry-point');
+const Client = require('../');
 
 const testFetchRequest = () => {
   return new Response('{"error":"EMPTY RESPONSE"}', { status: 200 });
