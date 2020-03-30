@@ -1,0 +1,9 @@
+{
+  "name": "google-calendar-provider-client",
+  "version": "0.0.0",
+  "main": "Client.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookn-me/GoogleCalendarProviderClient.git"
+  }
+}
