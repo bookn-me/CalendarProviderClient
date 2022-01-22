@@ -8,7 +8,7 @@
   "devDependencies": {
     "chai": "4.2.0",
     "mocha": "7.1.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "dependencies": {
     "memorystream": "0.3.1"
